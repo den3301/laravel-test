@@ -10,3 +10,6 @@ Route::get('/app', function () {
     return view('welcome');
 });
 
+Route::get('/send', function () {
+    return view('send');
+});
