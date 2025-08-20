@@ -19,7 +19,8 @@
 /storage/*.key
 /storage/pail
 /vendor
-/docker_s
 Homestead.json
 Homestead.yaml
 Thumbs.db
+*Zone.Identifier
+.DS_Store
